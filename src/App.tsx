@@ -15,7 +15,7 @@
       },
       content: [
         { type: 'paragraph', content: 'Fala galeraa 👋' },
-        { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
+        { type: 'paragraph', content: 'Nunca é tarde para aprender. Acabei de subir mais um projeto no meu portifa. É um projeto que fiz na Trilha ReactJS, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
         { type: 'link', content: '👉 jane.design/doctorcare' },
       ],
       publishedAt: new Date('2022-07-18 19:00:00')
@@ -29,7 +29,7 @@
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
+      { type: 'paragraph', content: 'Estude todo dia, que com certeza vocẽ vai estar pronto quando a oportunidade chegar 🚀' },
       { type: 'link', content: '👉 jane.design/doctorcare' },
     ],
     publishedAt: new Date('2022-05-10 23:00:00')
